@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FirstProject
+#
+
+projectname: FirstProject
+vendorid: com.eliteshadows
+mainmodule: com.eliteshadows.firstproject
